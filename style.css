@@ -1,0 +1,40 @@
+
+body
+
+{
+
+  background-image: url("http://walldiskpaper.com/wp-content/uploads/2014/11/Ubuntu-Simple-Wallpaper-Light.jpg");
+
+  background-attachment: fixed;
+
+  background-size: 100%;
+
+  text-align: center;
+
+  color:white;
+
+  font-size:2em;
+
+}
+
+
+
+#container
+
+{
+
+  background-color: silver;
+
+  background-size: cover;
+
+
+
+  position: absolute;
+
+  border: solid 0.75em black;
+
+  border-radius: 1.50em;
+
+}
+
+​
