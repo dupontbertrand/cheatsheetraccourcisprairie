@@ -33,10 +33,10 @@ body
 
   position: absolute;
 
-  border: solid  black;pxH
+  border: solid  black;
 
-  border-radius: 1.50em;
-
+  border-radius: 45px ;
+  border-width: 5px;
 }
 
 ​
