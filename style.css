@@ -35,11 +35,9 @@ section
 
 {
 
-  background-color: silver;
-  background-size: cover;
-  width: 550px;
-  margin:auto;
-  border: solid 1em black;
-  border-radius: 45px ;
-  border-width: 5px;
+    border: solid black 1.2em;
+  	border-radius: 2em;
+  	background-color: silver;
+  	width: 550px;
+  	margin: auto;
 }
