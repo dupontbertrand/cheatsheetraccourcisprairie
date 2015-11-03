@@ -39,10 +39,7 @@ section
   background-size: cover;
   width: 550px;
   margin:auto;
-  position: absolute;
-  border: solid  black;
+  border: solid 1em black;
   border-radius: 45px ;
   border-width: 5px;
 }
-
-​
