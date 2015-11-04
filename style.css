@@ -1,6 +1,7 @@
 h1 {
 
   text-decoration: underline;
+  color: white;
 }
 
 
@@ -13,7 +14,7 @@ body
 
 {
 
-  background-image: url("http://walldiskpaper.com/wp-content/uploads/2014/11/Ubuntu-Simple-Wallpaper-Light.jpg");
+  background-image: url("http://content.wallpapers-room.com/resolutions/1600x1000/A/Wallpapers-room_com___Alluminate_Wood_pack_5_by_vStyler_1600x1000.jpg");
 
   background-attachment: fixed;
 
@@ -41,3 +42,57 @@ section
   	width: 90%;
   	margin: auto;
 }
+
+/*Mobile-friendly*/
+
+
+    @media (max-width: 1024px) {
+      h1 {
+
+        text-decoration: underline;
+        color: white;
+      }
+
+
+
+      p {
+         line-height: 75%;
+       }
+
+      body
+
+      {
+
+        background-image: url("http://content.wallpapers-room.com/resolutions/1600x1000/A/Wallpapers-room_com___Alluminate_Wood_pack_5_by_vStyler_1600x1000.jpg");
+
+        background-attachment: fixed;
+
+        background-size: 100%;
+
+        text-align: center;
+
+        color: black;
+
+        font-size:2em;
+
+        font-family: georgia bold;
+
+      }
+
+span {
+  line-height: 1.5em;
+}
+
+
+      section
+
+      {
+
+          border: solid black 2px;
+        	border-radius: 2em;
+        	background-color: silver;
+        	width: 90%;
+        	margin: auto;
+      }
+
+      }
