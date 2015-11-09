@@ -31,13 +31,14 @@ section {
     font-size: 1.5em;
   }
   p {
-    line-height: 1.3em  ;
+    line-height: 1.3em;
     text-align: left;
     padding-left: 0.5em;
   }
-  code {font-size: 1.2em;
-  font-family: monospace bold
-}
+  code {
+    font-size: 1.2em;
+    font-family: monospace bold
+  }
   body {
     background-image: url("http://content.wallpapers-room.com/resolutions/1600x1000/A/Wallpapers-room_com___Alluminate_Wood_pack_5_by_vStyler_1600x1000.jpg");
     background-attachment: scroll;
